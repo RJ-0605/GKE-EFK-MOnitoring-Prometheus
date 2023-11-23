@@ -1,0 +1,5 @@
+kube-prometheus-stack/charts/grafana/ci
+kube-prometheus-stack-44.2.0.tgz
+ingress-nginx-4.4.2.tgz
+nginx-ingress-controller-9.3.25.tgz
+juice-shop-3.15.2.tgz
